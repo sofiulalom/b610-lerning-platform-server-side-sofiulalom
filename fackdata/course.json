@@ -41,7 +41,7 @@
     },
     {
         "_id":"6",
-        "catagory_id":"06",
+        "catagory_gid":"06",
         "title":"php",
         "img":"https://www.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-2111313359.jpg",
         "details":"PHP is a server s_ide scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages ",
